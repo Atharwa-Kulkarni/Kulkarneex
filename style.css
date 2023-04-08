@@ -259,12 +259,13 @@ html{
 }
 
 .internship-items{
-  display: grid;
+  display: inline-block;
   width: 310px;
+  margin-left: 90px;
 }
 
 .internship-content li{
-  list-style:disc;
+  display: inline-block;
   margin: 5px;
   padding: 5px;
 }
