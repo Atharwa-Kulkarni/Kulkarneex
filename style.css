@@ -90,6 +90,11 @@ html{
   border-radius: 10px;
 }
 
+.btn:hover{
+  background-color: #4da3ff;
+  transition: 0.5s;
+}
+
 #home {
   width: 100%;
   margin-left: 300px;
@@ -124,6 +129,10 @@ html{
   margin-left: 100px;
   border-radius: 10px;
   cursor: pointer;
+}
+.info .info-btn:hover{
+  background-color: #9bcafc;
+  transition: 0.5s;
 }
 
 .h1 {
